@@ -1,0 +1,73 @@
+<?php
+/*------------------------------------------------------------------------
+# com_joomlatag_members_directory ? Jtag Members Directory
+# ------------------------------------------------------------------------
+# author    Joomlatag.com
+# copyright Copyright (C) 2011 Joomlatag. All Rights Reserved.
+# Websites  http://www.joomlatag.com
+# Support   http://www.joomlatag.com/Forum/
+# @version  2.0
+# @license  http://www.joomlatag.com/Different-articles/software-license.html
+-------------------------------------------------------------------------*/
+defined('_JEXEC') or die('Restricted access');
+
+jimport('joomla.application.component.controller');
+
+class JTagMemberDirectoryController extends JController
+{
+	function __construct()
+  {
+		parent::__construct();
+    $this->registerTask('brwoseList', 'brwoseList');
+    $this->registerTask('cloud', 'cloud');
+    $this->registerTask('profile', 'profile');
+  }
+  
+  function browseList()
+  {
+    JRequest::setVar('view', 'browseList');
+//Next line added by sarika
+	$categories = $this->getModel('members')-> getCategories();
+
+    $users = $this->getModel('members')->getData();
+    $pagination = $this->getModel('members')->getPagination();
+    
+    if(!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest')
+    {
+      //force raw format
+      $document = &JFactory::getDocument();
+      $doc = &JDocument::getInstance('raw');
+      $document = $doc;
+      $document->setMimeEncoding('text/html');
+      
+      $view = $this->getView('browseList', 'raw', 'jtagmemberdirectoryView');
+    }
+    else
+    {
+      $view = $this->getView('browseList', 'html', 'jtagmemberdirectoryView');
+    }
+    $view->assign('categories', $categories);
+    $view->assign('users', $users);
+    $view->assign('pagination_data', $pagination->getData());
+    
+    parent::display();
+  }
+  
+  function memberdetails()
+  {
+    require_once JPATH_COMPONENT_ADMINISTRATOR . DS . 'tables' . DS . 'membersdirectory.php';
+    
+    JRequest::setVar('view', 'memberdetails');
+    
+//  $profile = $this->getModel('memberdetails')->getData(JRequest::getInt('mid'));
+    $profile = $this->getModel('memberdetails')->getTable('MembersDirectory');
+    $profile->load(JRequest::getInt('mid'));
+    
+    $view = $this->getView('memberdetails', 'html', 'jtagmemberdirectoryView');
+    $view->assign('profile', $profile);
+    
+    parent::display();
+  }
+}
+
+    

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    
+     <params>
+        <param name="title"  type="text"  default="Members Dir" label="Page Title" />
+        <param name="pages"  type="text"  default="2" label="Members per Page" />
+        <param name="public" type="radio" default="0" label="Members Visible By">
+            <option value="0">Public</option>
+            <option value="1">Registered Users Only</option>
+        </param>
+       <param name="view" type="radio" default="0" label="Display members on front page in">
+            <option value="0">List View</option>
+            <option value="1">Table View</option>
+            <option value="2">Collage View</option>
+        </param>
+       <param name="adminedit" type="radio" default="0" label="Allow admin to edit all users from front end :">
+			 <option value="0">None</option>
+                         <option value="1">Super User</option>
+                         <option value="2">Admin</option>
+                         <option value="3">Manager</option> 
+                        
+                        </param>
+        <param name="sortby" type="list" default="name" label="Sort by">
+			<option value="name">Name</option>
+			<option value="country">Country</option>
+			<option value="state">State</option>
+			<option value="city">City</option>
+			<option value="phone_no">Phone No</option>
+	    </param>
+	     <param name="order" type="list" default="name" label="Order">
+			<option value="asc">Ascending</option>
+			<option value="desc">Descending</option>
+		</param>
+   <param name="search" type="list" default="Select Field to Hide" label="Hide search Field" multiple="multiple">
+                        <option value="select" >Select Search Field</option>
+			<option value="name">Name</option>
+			<option value="country">Country</option>
+			<option value="state">State</option>
+			<option value="city">City</option>
+			<option value="Category">Category</option>
+                        <option value="Custom">Custom</option>
+	    </param>
+      <param name="wall"  type="text"  default="" label="Wall color " description="Add background color of members list view" />
+
+    </params>
+    
+    <fieldset name="basic"  
+                label="Basic Setings"
+                description="Note: Sort by ' Custom ' means you can provide order of members manually. You can provide this order at members list"
+        >
+        <fields name="params" addfieldpath="/administrator/components/com_jtagmembersdirectory/fields">
+           <field name="title"  type="text"  default="Members Dir" label="Page Title" />
+           <field name="pages"  type="text"  default="2" label="Members per Page" />
+         <field name="contact_category" id="contact_category" type="contact" default="0" label="Members Visible By" description="To Add new group go to users->groups->add new group" />
+           <field name="view" type="radio" default="0" label="Display members on front page in :">
+			 <option value="0">List View</option>
+                         <option value="1">Table View</option>
+                         <option value="2">Collage View</option>
+		</field>
+       <field name="adminedit" type="radio" default="0" label="Allow Group to edit all users from front end :">
+			 <option value="0">None</option>
+                         <option value="1">Super User</option>
+                         <option value="2">Admin</option>
+                         <option value="3">Manager</option>
+                         </field>
+         <field name="sortby" type="list" default="name" label="Sort by">
+			<option value="name">Name</option>
+			<option value="country">Country</option>
+			<option value="state">State</option>
+			<option value="city">City</option>
+			<option value="phone_no">Phone No</option>
+                        <option value="Custom">Custom</option>
+	    </field>
+	     <field name="order" type="list" default="name" label="Order">
+			<option value="asc">Ascending</option>
+			<option value="desc">Descending</option>
+		</field>
+
+ <field name="category" type="radio" default="0" label="Display Members only user categories :">
+			 <option value="0">No</option>
+                         <option value="1">Yes</option>
+</field>
+  <field name="search" type="list" default="Select Search Field to Hide" label="Hide search field" multiple="multiple" >
+                        <option value="select">Select Search Field</option>
+			<option value="name">Name</option>
+			<option value="country">Country</option>
+			<option value="state">State</option>
+			<option value="city">City</option>
+			<option value="category">Category</option>
+                        <option value="custom">Custom</option>
+	    </field>
+       <field name="wall"  type="text"  default="white" label="Wall color " description="Add background color of members list view" />
+           <field name="vcf" type="radio" default="0" label="Vcard:">
+			 <option value="0">No</option>
+                         <option value="1">Yes</option>
+</field>
+       </fields>
+ <fields name="params" label="Custom Order of members" description="set order of members manually">
+					</fields>
+    </fieldset>
+    </config>
