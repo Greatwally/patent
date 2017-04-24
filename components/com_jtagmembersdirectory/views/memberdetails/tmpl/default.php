@@ -40,17 +40,17 @@ if($group=="6")
     <!--<ul>-->
     <!--    <li>-->
 	<?php if (($this->profile->user_id == $this->user_id && $this->profile->allow_edit) || (!empty($this->user_id) && $this->adminedit== '1' && $flag==1) ):?>
-	 <div class="button-link" style="margin-left:600px;">
+	 <div class="button-link"">
 				<a href="<?php echo JRoute::_('index.php?option=com_jtagmembersdirectory&task=editmemberdetails&mid='.$id) ?>" class="back-list"title ="Click to edit your Profile"><h4>Edit Profile</h4></a>
 				</div>
 <?elseif(($this->profile->user_id == $this->user_id && $this->profile->allow_edit) || (!empty($this->user_id) && $this->adminedit== '2' && $flag==2) ):?>
 				
 
- <div class="button-link" style="margin-left:600px;">
+ <div class="button-link">
 				<a href="<?php echo JRoute::_('index.php?option=com_jtagmembersdirectory&task=editmemberdetails&mid='.$id) ?>" class="back-list"title ="Click to edit your Profile"><h4>Edit Profile</h4></a>
 				</div>
 <?elseif(($this->profile->user_id == $this->user_id && $this->profile->allow_edit) || (!empty($this->user_id) && $this->adminedit== '3' && $flag==3) ):?>
-<div class="button-link" style="margin-left:600px;">
+<div class="button-link">
 				<a href="<?php echo JRoute::_('index.php?option=com_jtagmembersdirectory&task=editmemberdetails&mid='.$id) ?>" class="back-list"title ="Click to edit your Profile"><h4>Edit Profile</h4></a>
 				</div>
 

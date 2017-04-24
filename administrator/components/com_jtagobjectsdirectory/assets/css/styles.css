@@ -1,0 +1,107 @@
+#overall {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  opacity: 0.7;
+  background-color: rgb(0, 0, 0);
+  z-index: 65555;
+  height: 100%;
+  width: 100%;
+  display: none;
+  overflow: hidden;
+}
+
+#userlist_box {
+  position: absolute;
+  top: 180px;
+  background: #f5f5f5;
+  width: 250px;
+  height: 400px;
+  z-index: 65557;
+  display: none
+}
+
+#userlist_box a.close
+{
+  border: 1px solid #bbbbbb;
+  text-align: center;
+  position: absolute;
+  bottom: 5px;
+  width: 80px;
+  height: 20px;
+  background-color: #DCDCDC;
+  color: #595959;
+  font-family: arial;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 4px 0 0;
+  margin-left: 85px;
+}
+
+#search_users {
+  background-color: #dcdcdc;
+  padding: 10px;
+}
+
+#search_users label {
+  font-family: arial;
+  font-size: 12px;
+  font-weight: bold;
+  color: #595959;
+}
+
+#search_users input {
+  border: 1px solid #bbbbbb;
+  font-family: Arial;
+  font-size: 13px;
+  height: 18px;
+}
+
+#search_users .reset_filter {
+  background: url(../images/button_sprite.png) transparent 0 0 no-repeat;
+  cursor: pointer;
+  display: inline-block;
+  width: 23px;
+  height: 22px;
+  text-indent: -10000px;
+  position: relative;
+  top: -5px;
+}
+
+#search_users .reset_filter:hover {
+  background: url(../images/button_sprite.png) transparent -23px 0 no-repeat;
+}
+
+#userlist_results .loader
+{
+  text-align: center;
+  padding-top: 95px;
+}
+
+#userlist_results ul
+{
+  margin: 0;
+  padding: 0;
+}
+
+#userlist_results ul li {
+  border-bottom: 1px solid #cecece;
+  border-top: 1px solid #ffffff;
+  display: block;
+  font-size: 12px;
+  list-style: none;
+  padding: 5px 10px;
+}
+
+#userlist_results ul li.result_counter
+{
+  text-align: center;
+  font-weight: bold;
+  color: #595959;
+}
+
+#userlist_results ul li .edit
+{
+  font-size: 10px;
+  color: #bcbcbc;
+}

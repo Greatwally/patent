@@ -1,0 +1,73 @@
+<?php
+/*------------------------------------------------------------------------
+# com_joomlatag_objects_directory ? Jtag objects Directory
+# ------------------------------------------------------------------------
+# author    Joomlatag.com
+# copyright Copyright (C) 2011 Joomlatag. All Rights Reserved.
+# Websites  http://www.joomlatag.com
+# Support   http://www.joomlatag.com/Forum/
+# @version  2.0
+# @license  http://www.joomlatag.com/Different-articles/software-license.html
+-------------------------------------------------------------------------*/
+defined('_JEXEC') or die('Restricted access');
+
+jimport('joomla.application.component.controller');
+
+class JTagobjectDirectoryController extends JController
+{
+	function __construct()
+  {
+		parent::__construct();
+    $this->registerTask('brwoseList', 'brwoseList');
+    $this->registerTask('cloud', 'cloud');
+    $this->registerTask('profile', 'profile');
+  }
+  
+  function browseList()
+  {
+    JRequest::setVar('view', 'browseList');
+//Next line added by sarika
+	$categories = $this->getModel('objects')-> getCategories();
+
+    $users = $this->getModel('objects')->getData();
+    $pagination = $this->getModel('objects')->getPagination();
+    
+    if(!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest')
+    {
+      //force raw format
+      $document = &JFactory::getDocument();
+      $doc = &JDocument::getInstance('raw');
+      $document = $doc;
+      $document->setMimeEncoding('text/html');
+      
+      $view = $this->getView('browseList', 'raw', 'jtagobjectdirectoryView');
+    }
+    else
+    {
+      $view = $this->getView('browseList', 'html', 'jtagobjectdirectoryView');
+    }
+    $view->assign('categories', $categories);
+    $view->assign('users', $users);
+    $view->assign('pagination_data', $pagination->getData());
+    
+    parent::display();
+  }
+  
+  function objectdetails()
+  {
+    require_once JPATH_COMPONENT_ADMINISTRATOR . DS . 'tables' . DS . 'objectsdirectory.php';
+    
+    JRequest::setVar('view', 'objectdetails');
+    
+//  $profile = $this->getModel('objectdetails')->getData(JRequest::getInt('mid'));
+    $profile = $this->getModel('objectdetails')->getTable('objectsDirectory');
+    $profile->load(JRequest::getInt('mid'));
+    
+    $view = $this->getView('objectdetails', 'html', 'jtagobjectdirectoryView');
+    $view->assign('profile', $profile);
+    
+    parent::display();
+  }
+}
+
+    

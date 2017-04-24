@@ -30,28 +30,10 @@ $app				= JFactory::getApplication();
 $doc				= JFactory::getDocument();
 $templateparams		= $app->getTemplate(true)->params;
 
-$doc->addStyleSheet($this->baseurl.'/templates/system/css/system.css');
-$doc->addStyleSheet($this->baseurl.'/templates/'.$this->template.'/css/position.css', $type = 'text/css', $media = 'screen,projection');
-$doc->addStyleSheet($this->baseurl.'/templates/'.$this->template.'/css/layout.css', $type = 'text/css', $media = 'screen,projection');
-$doc->addStyleSheet($this->baseurl.'/templates/'.$this->template.'/css/print.css', $type = 'text/css', $media = 'print');
+$doc->addStyleSheet($this->baseurl.'/templates/beez_20/css/custom/normalize.css');
+$doc->addStyleSheet($this->baseurl.'/templates/beez_20/css/custom/bootstrap.min.css');
+$doc->addStyleSheet($this->baseurl.'/templates/beez_20/css/custom/main.css');
 
-$files = JHtml::_('stylesheet', 'templates/'.$this->template.'/css/general.css', null, false, true);
-if ($files):
-	if (!is_array($files)):
-		$files = array($files);
-	endif;
-	foreach($files as $file):
-		$doc->addStyleSheet($file);
-	endforeach;
-endif;
-
-$doc->addStyleSheet('templates/'.$this->template.'/css/'.htmlspecialchars($color).'.css');
-if ($this->direction == 'rtl') {
-	$doc->addStyleSheet($this->baseurl.'/templates/'.$this->template.'/css/template_rtl.css');
-	if (file_exists(JPATH_SITE . '/templates/' . $this->template . '/css/' . $color . '_rtl.css')) {
-		$doc->addStyleSheet($this->baseurl.'/templates/'.$this->template.'/css/'.htmlspecialchars($color).'_rtl.css');
-	}
-}
 
 $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/md_stylechanger.js', 'text/javascript');
 $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/hide.js', 'text/javascript');
@@ -105,41 +87,14 @@ $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/hide.j
 </head>
 
 <body>
-
+<header>
+    <br>
+    <br>
+</header>
 <div id="all">
         <div id="back">
-                <div id="header">
-                                <div class="logoheader">
-                                        <h1 id="logo">
 
-                                        <?php if ($logo): ?>
-                                        <img src="<?php echo $this->baseurl ?>/<?php echo htmlspecialchars($logo); ?>"  alt="<?php echo htmlspecialchars($templateparams->get('sitetitle'));?>" />
-                                        <?php endif;?>
-                                        <?php if (!$logo ): ?>
-                                        <?php echo htmlspecialchars($templateparams->get('sitetitle'));?>
-                                        <?php endif; ?>
-                                        <span class="header1">
-                                        <?php echo htmlspecialchars($templateparams->get('sitedescription'));?>
-                                        </span></h1>
-                                </div><!-- end logoheader -->
-                                        <ul class="skiplinks">
-                                                <li><a href="#main" class="u2"><?php echo JText::_('TPL_BEEZ2_SKIP_TO_CONTENT'); ?></a></li>
-                                                <li><a href="#nav" class="u2"><?php echo JText::_('TPL_BEEZ2_JUMP_TO_NAV'); ?></a></li>
-                                            <?php if($showRightColumn ):?>
-                                            <li><a href="#additional" class="u2"><?php echo JText::_('TPL_BEEZ2_JUMP_TO_INFO'); ?></a></li>
-                                           <?php endif; ?>
-                                        </ul>
-                                        <h2 class="unseen"><?php echo JText::_('TPL_BEEZ2_NAV_VIEW_SEARCH'); ?></h2>
-                                        <h3 class="unseen"><?php echo JText::_('TPL_BEEZ2_NAVIGATION'); ?></h3>
-                                        <jdoc:include type="modules" name="position-1" />
-
-                        </div><!-- end header -->
                         <div id="<?php echo $showRightColumn ? 'contentarea2' : 'contentarea'; ?>">
-                                        <div id="breadcrumbs">
-
-                                                        <jdoc:include type="modules" name="position-2" />
-
-                                        </div>
 
                                         <?php if ($navposition=='left' and $showleft) : ?>
 

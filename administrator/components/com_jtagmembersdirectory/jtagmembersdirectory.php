@@ -100,7 +100,7 @@ $controller->redirect();
 //echo get_class($controller);exit();
 function addSubmenu($menuItem)
 {
-     JSubMenuHelper::addEntry(JText::_('JTAG_BACKEND_MENU_DASHBOARD'), 'index.php?option=com_jtagmembersdirectory&c=dashbord',$menuItem=='Dashbord');
+    // JSubMenuHelper::addEntry(JText::_('JTAG_BACKEND_MENU_DASHBOARD'), 'index.php?option=com_jtagmembersdirectory&c=dashbord',$menuItem=='Dashbord');
      JSubMenuHelper::addEntry(JText::_('JTAG_BACKEND_MENU_MEMBERS'), 'index.php?option=com_jtagmembersdirectory&c=members',$menuItem=='Members');
      JSubMenuHelper::addEntry(JText::_('JTAG_BACKEND_MENU_CATEGORIES'), 'index.php?option=com_jtagmembersdirectory&c=categories',$menuItem=='Categories');
      
@@ -116,7 +116,7 @@ JSubMenuHelper::addEntry('Users', 'index.php?option=com_jtagmembersdirectory&c=U
       $cs = $db->loadObject();
       if($cs->allow_nonregistered_users_from_frontend == 1||empty($cs))
       {
-      		JSubMenuHelper::addEntry(JText::_('Requests'), 'index.php?option=com_jtagmembersdirectory&c=adduser',$menuItem=='Adduser');
+      		//JSubMenuHelper::addEntry(JText::_('Requests'), 'index.php?option=com_jtagmembersdirectory&c=adduser',$menuItem=='Adduser');
       }
 }
 ?>

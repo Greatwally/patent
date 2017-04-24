@@ -28,15 +28,13 @@ if($version->RELEASE!="1.5")
     <h2 class="page-title"><?php echo $params->title;?></h2>
 <?php } else {?>
 <h2 class="page-title"><?php echo comparams('title');?></h2>
-<?php }?>	
+<?php }?>
+    <br>
 <a href="<?php echo $link; ?>"><?php echo JText::_('JTAG_CATEGOTY_ALL_MEMBERS');?></a>
 
 <div id="jtag-category-list">
      <?php jtag_include_partial($this->getName(), 'catlist', array('categories' => $this->categories,'customfield' => $this->customfield,'search' => $this->search,'rows' => $this->rows,'custom'=>$this->customsearch, 'pagination_data' => $this->pagination_data)); ?>
 </div>
-
-
-	<?php jtag_include_partial($this->getName(), 'alphalist'); ?>
 	
     <?php jtag_include_partial($this->getName(), 'searchForm',array('search' => $this->search)); ?>
  <?php if($v==0):  ?>
@@ -52,6 +50,7 @@ if($version->RELEASE!="1.5")
      <?php jtag_include_partial($this->getName(), 'table',  array('users' => $this->users,'options'=>$this->options, 'pagination_data' => $this->pagination_data)); ?>
     </div>
 <?php endif;?>
+
     <!--
     <div id="jtag-member-list">
       <?php if (count($this->users) > 0): ?>

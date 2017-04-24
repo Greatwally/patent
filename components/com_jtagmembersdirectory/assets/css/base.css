@@ -50,7 +50,7 @@ BODY
 	
 	
 	
-.back-list{ background:url(../images/button_bg.jpg) repeat-x scroll 0 2px transparent; color:#fff; font-size: 12px; font-weight: bold; text-shadow: #025bc1 1px 1px 2px; text-decoration: none; line-height:32px; height:32px; float: none; padding:0 10px; border-radius:4px; -moz-border-radius:4px;}
+.back-list{ background:url(../images/button_bg.jpg) repeat-x scroll 0 2px transparent; color:#fff; font-size: 12px; font-weight: bold; text-shadow: #025bc1 1px 1px 2px; text-decoration: none; line-height:32px; height:32px; float: none; padding:10px; border-radius:4px; -moz-border-radius:4px;}
 	
 /* // thumbnail list */
 

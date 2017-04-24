@@ -32,7 +32,7 @@ function alphaclick(alpha) {
 </script>
 
 
-<div float:left>
+<div style="margin-bottom: -10px">
 <a id=mylink value="A" href="javascript:void(0)" onclick=alphaclick("A") >A</a>
 <a id=mylink value="B" href="javascript:void(0)" onclick=alphaclick("B") >B</a>
 <a id=mylink value="C" href="javascript:void(0)" onclick=alphaclick("C") >C</a>

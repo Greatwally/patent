@@ -1,0 +1,123 @@
+table.adminform {
+  border: none !important;
+  background: transparent !important;
+}
+
+.jtag_dashboard_box {
+  background: transparent;
+  border: 1px solid #ededed;
+  border-top: none;
+  border-radius: 4px;
+  font: bold 12px arial;
+  color: #797979;
+}
+
+.jtag_dashboard_box h2 {
+  background: url(../images/head_bg.png);
+  font: inherit;
+  height: 15px;
+  padding: 9px;
+  margin: 0 0 10px;
+  color: #494949;
+  text-transform: capitalize;
+}
+
+.jtag_dashboard_box h3 {
+  font: inherit;
+  height: 15px;
+  padding: 9px;
+  margin: 0;
+}
+
+.jtag_dashboard_box p {
+  font: 12px/160% arial;
+  padding: 0 10px;
+  margin: 0 0 10px;
+}
+.jtag_dashboard_box p.twitter {
+  margin: 0;
+}
+
+.jtag_dashboard_box p.twitter .author {
+  font-weight: bold;
+  color: #494949;
+}
+
+.jtag_dashboard_box p.meta {
+  color: #a9a9a9;
+  font-size: 10px;
+  padding: 0 10px;
+  margin: 0 0 10px;
+}
+
+
+.jtag_dashboard_box a:link {
+  font-weight: normal;
+  color: #407afb;
+}
+
+.jtag_dashboard_box div.footer {
+  border-top: 1px solid #ededed;
+  padding: 9px;
+}
+
+.jtag_dashboard_box div.notice {
+  background-color: #ededed;
+  padding: 9px;
+  color: #494949;
+  margin: 0 9px;
+  height: 23px;
+  line-height: 110%;
+}
+
+.jtag_dashboard_box div.notice span {
+  padding-top: 6px;
+  position: absolute;
+}
+
+.jtag_dashboard_box a.update {
+  background: url(../images/download_button.png);
+  text-indent: -10000px;
+  width: 80px;
+  height: 23px;
+  display: block;
+  float: right;
+}
+
+.jtag_dashboard_box a.update:hover {
+  background: url(../images/download_button.png) -80px 0 no-repeat;
+}
+
+.jtag_dashboard_box a.vote {
+  background: url(../images/vote_button.png);
+  display: block;
+  height: 30px;
+  text-indent: -10000px; 
+  width: 171px;
+}
+
+.jtag_dashboard_box a.vote:hover {
+  background: url(../images/vote_button.png) -171px 0 no-repeat;
+}
+
+.jtag_dashboard_box iframe.twitter-follow-button {
+  width: 61px !important;
+  overflow: hidden;
+  float: right;
+  position: relative;
+  top: -2px;
+}
+
+.jtag_dashboard_news h3 {
+  color: #407afb;
+  font: inherit;
+  height: 15px;
+  padding: 0 9px;
+  margin: 0;
+}
+
+#jtag_copyright
+{
+  text-align: center;
+  margin: 10px;
+}

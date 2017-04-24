@@ -52,7 +52,6 @@ this.cat['customtext'].style.visibility="hidden";
   });
 });
 </script>
-
 <form action="<?php echo JRoute::_('') ?>" name="cat"  method="get" id="jtag_md_search_form">
 
   <input type="hidden" name="option" value="com_jtagmembersdirectory" rel="adfjkasfjadsl;f" />
@@ -86,22 +85,7 @@ this.cat['customtext'].style.visibility="hidden";
 		<?php endif; ?>
     </select>
 <?php endif; ?>
-<?php if($custm==0): ?>
-<b><?php echo JText:: _('JTAG_CUSTOM_FIELDS');?></b>
- <select name="custom" id="customvalue" size="1" class="field"
-		onChange="DoTheCheck()">
-		<option value="Select"><?php echo JText:: _('JTAG_SELECT_CUSTOM');?></option>
-       <?php if (count($custom) > 0): ?>
-			<?php foreach ($custom as $cust):$link = JRoute::_('index.php?option=com_jtagmembersdirectory&amp;Itemid='.JRequest::getVar('Itemid').'&amp;cust_id='.$cust->field_label) ?>
-	         <option value="<?php echo $link; ?>" <?php if($_GET['cust_id'] == $cust->field_label) { ?> selected <?php } ?>><?php echo $cust->field_label; ?></option>
-			<?php endforeach; ?>
-		<?php endif; ?>
-    </select>
-
- <input type="text" name="customtext"  class="field jtag-dv" value="<?php echo JRequest::getString('customtext') ?>" style="visibility:hidden" />
-
-<?php endif; ?>
-
+<br>
 <input type="hidden" name="option" value="com_jtagmembersdirectory" />
   <input type="hidden" name="task" value="Sendrequest" />
   <input type="hidden" name="controller" value="jtagmembersdirectory" />

@@ -9,7 +9,7 @@
 # @version  2.0
 # @license  http://www.joomlatag.com/Different-articles/software-license.html
 -------------------------------------------------------------------------*/
-defined('_JEXEC') or die('Restricted access'); 
+defined('_JEXEC') or die('Restricted access');
 
 ?>
 
@@ -28,12 +28,6 @@ defined('_JEXEC') or die('Restricted access');
 <?php $count=0;$stat=0;$ct=0;$nm=0;?>
 <?php if($search!="Select Search Field to Hide"): ?>
 <?php foreach($search as $field) : ?>
-<?php if($field=="country"): ?>
-  <?php $count=1; ?>
-<?php endif; ?>
-<?php if($field=="state"): ?>
-  <?php $stat=1; ?>
-<?php endif; ?>
 <?php if($field=="city"): ?>
   <?php $ct=1; ?>
 <?php endif; ?>
@@ -49,20 +43,6 @@ defined('_JEXEC') or die('Restricted access');
 
   </div>
 <?php endif; ?>
-
-  <?php if($count==0): ?>
-  <div class="holding country">
-    <?php echo JHTML::_('select.genericlist', jtag_countries_list($add_empty = true), 'country', ' class="field" size="1"', 'value', 'text', JRequest::getString('country')); ?>
-  </div>
-<?php endif; ?>
-
-
-   <?php if($stat==0): ?>
-  <div class="holding state">
-    <input type="text" name="state" class="field jtag-dv" value="<?php echo JRequest::getString('state') ?>" placeholder="<?php echo JText:: _('JTAG_SELECT_STATE');?>"/>
-
-  </div>
-  <?php endif; ?>
 
  <?php if($ct==0): ?>
   <div class="holding city">
