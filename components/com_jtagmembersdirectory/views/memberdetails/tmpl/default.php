@@ -71,7 +71,7 @@ if($group=="6")
 				
             <?php endif; ?>
 
-             
+
 
 
 
@@ -225,9 +225,34 @@ if($group=="6")
 
 		<?php echo JText::_('VCARD');?></a></li>
 	<?php endif; ?>
-
             </ul>
-            <a href="#" class="back-list" onclick="self.history.back(1)"><?php echo JText:: _('BACK_TO_THE_LIST');?></a>
+                <br>
+
+
+                <script>
+                    ymaps.ready(function () {
+                        var myMap = new ymaps.geocode("<?php echo $this->profile->state ?>").then(function (res) {
+                            myMap = new ymaps.Map('map', {
+                                center: res.geoObjects.get(0).geometry.getCoordinates(),
+                                zoom : 16,
+                                behaviors: ['default', 'scrollZoom'],
+                            }),
+                                myPlacemark = new ymaps.Placemark(res.geoObjects.get(0).geometry.getCoordinates(), {
+                                    // Чтобы балун и хинт открывались на метке, необходимо задать ей определенные свойства.
+                                });
+                            myMap.geoObjects.add(myPlacemark);
+                            myMap.controls
+                                // Кнопка изменения масштаба.
+                                .add('zoomControl', { left: 5, top: 5 });
+
+
+                        });
+                    });
+
+                </script>
+                <div id="map" style="width: 600px; height: 450px"></div>
+                <br>
+                <a href="#" class="back-list" onclick="self.history.back(1)"><?php echo JText:: _('BACK_TO_THE_LIST');?></a>
           </div>
     <!--    </li>-->
     <!--</ul>-->

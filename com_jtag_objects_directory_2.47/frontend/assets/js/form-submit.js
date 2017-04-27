@@ -1,5 +1,5 @@
 window.addEvent('domready', function(){
-  $('jtag-userseacr-submit').addEvent('click', function(){
+  $('jtag-userseacr-submit').on('click', function(){
     jtagMDAjaxSearch();
     
     return false;

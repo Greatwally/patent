@@ -1,17 +1,17 @@
 window.addEvent('domready', function(){
-  $('jtag-userseacr-submit').addEvent('click', function(){
+  $('jtag-userseacr-submit').on('click', function(){
     jtagMDAjaxSearch();
-    
+
     return false;
   });
-  
+
   $$('input[type=text]').addEvent('keypress', jtagMDTimeOutAjaxSearch = function(){
     if (typeof jtagMDtimeout != 'undefined') {
       clearTimeout(jtagMDtimeout);
     }
     jtagMDtimeout = setTimeout('jtagMDAjaxSearch()', 700);
   });
-  
+
   $$('select').addEvent('change', jtagMDTimeOutAjaxSearch = function(){
     if (typeof jtagMDtimeout != 'undefined') {
       clearTimeout(jtagMDtimeout);

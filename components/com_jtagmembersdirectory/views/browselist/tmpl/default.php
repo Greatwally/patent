@@ -20,6 +20,61 @@ $params = & JTagHelper::getComponentParameters('com_jtagmembersdirectory');
 }
 ?>
 
+<?php
+$arr = [];
+
+$addresses = json_encode($this->users);
+
+?>
+<script>
+    ymaps.ready(function () {
+        var array = <?= $addresses ?>;
+        console.log(array);
+        var myMap = new ymaps.geocode('Минск').then(function (res) {
+            myMap = new ymaps.Map('map', {
+                center: [53.902257, 27.561831],
+                zoom : 11.5,
+                behaviors: ['default', 'scrollZoom'],
+            })
+        });
+        var i;
+            function promcall(i){
+                myMap = new ymaps.geocode(array[i]['state']).then(function (res) {
+
+                    myPlacemark = new ymaps.Placemark(res.geoObjects.get(0).geometry.getCoordinates(), {
+                        balloonContentBody: [
+                            '<address>',
+                            '<strong>' + array[i]['name'] + '</strong>',
+                            '<br/>',
+                            'Адрес: ' + array[i]['state'],
+                            '<br/>',
+                            '<a href="http://patent/index.php/component/jtagmembersdirectory/?format=html&task=memberDetails&mid=' + array[i]['id'] + '">Перейти к профилю</a>',
+                            '</address>'
+                        ].join('')
+                    });
+                    myMap.geoObjects.add(myPlacemark);
+
+                    myMap.controls
+                        // Кнопка изменения масштаба.
+                        .add('zoomControl', { left: 5, top: 5 });
+                });
+            }
+
+            let promise = new Promise((resolve, reject) => {
+                for(i = 0; i < array.length; i++){
+                    resolve(promcall(i));
+                }
+            });
+            promise.then(
+                result => {
+                },
+                error => {
+                }
+            );
+    });
+</script>
+<div id="map" style="width: 980px; height: 600px"></div>
+<br>
 
 <div class="Jtag_Members_Directory_list" >
 <?php 
@@ -81,3 +136,6 @@ if($version->RELEASE!="1.5")
     </div>
     -->
 </div>
+<br>
+
+

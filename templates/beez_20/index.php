@@ -37,6 +37,8 @@ $doc->addStyleSheet($this->baseurl.'/templates/beez_20/css/custom/main.css');
 
 $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/md_stylechanger.js', 'text/javascript');
 $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/hide.js', 'text/javascript');
+$doc->addScript('http://api-maps.yandex.ru/2.0/?load=package.standard&lang=ru-RU', 'text/javascript');
+$doc->addScript('https://yandex.st/jquery/2.2.3/jquery.min.js', 'text/javascript');
 
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
