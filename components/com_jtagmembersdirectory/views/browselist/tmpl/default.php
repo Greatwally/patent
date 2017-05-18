@@ -86,11 +86,7 @@ if($version->RELEASE!="1.5")
 <?php }?>
     <br>
 <a href="<?php echo $link; ?>"><?php echo JText::_('JTAG_CATEGOTY_ALL_MEMBERS');?></a>
-
-<div id="jtag-category-list">
-     <?php jtag_include_partial($this->getName(), 'catlist', array('categories' => $this->categories,'customfield' => $this->customfield,'search' => $this->search,'rows' => $this->rows,'custom'=>$this->customsearch, 'pagination_data' => $this->pagination_data)); ?>
-</div>
-	
+  <br>
     <?php jtag_include_partial($this->getName(), 'searchForm',array('search' => $this->search)); ?>
  <?php if($v==0):  ?>
     <div id="jtag-member-list" style="background-color:<?php echo $params->wall; ?>;">

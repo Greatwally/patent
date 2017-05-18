@@ -1,6 +1,6 @@
 <?php
 /*------------------------------------------------------------------------
-# com_joomlatag_members_directory – Jtag Members Directory
+# com_joomlatag_members_directory ï¿½ Jtag Members Directory
 # ------------------------------------------------------------------------
 # author    Joomlatag.com
 # copyright Copyright (C) 2011 Joomlatag. All Rights Reserved.
@@ -39,8 +39,8 @@ function clearAll()
   document.getElementById('search').value='';
   document.getElementById('email').value='';
   document.getElementById('phone').value='';
-  
- 
+
+
   this.form.getElementById('filter_state').value='-1';
   this.form.submit();
 }
@@ -53,7 +53,7 @@ function clearAll()
 					<input type="checkbox" name="toggle" value="" onclick="Joomla.checkAll(this)" />
 				</th>
         <th>
-					<?php echo JHtml::_('grid.sort', JTAG_MEMBERS_LIST_ID, 'user_id', $this->lists['order_Dir'], $this->lists['order']); ?>
+					<?php echo JHtml::_('grid.sort', JTAG_MEMBERS_LIST_ID, 'id', $this->lists['order_Dir'], $this->lists['order']); ?>
 				</th>
         <th>
 					<?php echo JHtml::_('grid.sort', JTAG_MEMBERS_LIST_NAME, 'name', $this->lists['order_Dir'], $this->lists['order']); ?>
@@ -94,19 +94,19 @@ function clearAll()
 			</tr>
 		</tfoot>
     <tbody>
-		
-	<?php  $v=0; $n=count( $this->items );  foreach ($this->items as $i => $item) : 
+
+	<?php  $v=0; $n=count( $this->items );  foreach ($this->items as $i => $item) :
 
        if($v < $n)
            {
              $ordering = ($this->lists['order'] == 'c.ordering');	?>
- 
+
 		<tr class="row<?php echo $i % 2; ?>">
 			<td class="center">
 				<?php echo JHtml::_('grid.id', $i, $item->id); ?>
 			</td>
 		    <td align="center">
-				  <a href="index.php?option=com_jtagmembersdirectory&controller=jtagmembersdirectory&task=member&mid=<?php echo $item->id ?>" ><?php echo $this->escape($item->user_id); ?></a>
+				  <a href="index.php?option=com_jtagmembersdirectory&controller=jtagmembersdirectory&task=member&mid=<?php echo $item->id ?>" ><?php echo $this->escape($item->id); ?></a>
 			</td>
 	        <td align="center">
 			      <?php echo $this->escape($item->name); ?>
@@ -150,7 +150,7 @@ function clearAll()
 			<?php $v++; }  endforeach; ?>
 		</tbody>
   </table>
-  
+
   <input type="hidden" name="option" value="com_jtagmembersdirectory" />
   <input type="hidden" name="view" value="members" />
   <input type="hidden" name="task" value="" />

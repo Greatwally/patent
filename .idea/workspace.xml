@@ -2,213 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c438f9ae-39fa-44a5-8283-2ff5488a7008" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\css\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\css\jtag_dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\css\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\images\button_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\images\download_button.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\images\follow_us_button.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\images\head_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\images\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\images\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\images\vote_button.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\js\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\js\retrvusers.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\assets\js\selecttransfer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\changelog" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\controller.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\controllers\Users.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\controllers\adduser.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\controllers\categories.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\controllers\categories.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\controllers\file.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\controllers\filters.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\controllers\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\dashboard.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\fields\contact.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\helpers\_helper.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\helpers\countries.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\helpers\helpers.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\helpers\helpers.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\helpers\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\install.mysql.utf8.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\jtagobjectsdirectory.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\jtagobjectsdirectory.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\models\assigncategories.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\models\categories.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\models\category.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\models\dispayoptions.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\models\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\models\object.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\models\objects.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\models\users.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\models\userslist.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\updates\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\updates\mysql\2.40.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\updates\mysql\2.41.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\updates\mysql\2.42.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\updates\mysql\2.43.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\updates\mysql\2.44.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\updates\mysql\2.45.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\updates\mysql\2.46.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\updates\mysql\2.47.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\sql\updates\mysql\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\tables\customfields.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\tables\displayoptions.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\tables\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\tables\jtagobjectdirectorycategories.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\tables\jtagobjectdirectoryobjectscategories.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\tables\objectsdirectory.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\uninstall.mysql.utf8.sql" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\adduser\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\adduser\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\adduser\tmpl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\adduser\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\adduser\view.html.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\categories\assets\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\categories\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\categories\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\categories\tmpl\default.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\categories\tmpl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\categories\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\categories\view.html.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\category\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\category\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\category\tmpl\default.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\category\tmpl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\category\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\category\view.html.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\filters\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\filters\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\filters\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\jtag_dashboard\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\jtag_dashboard\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\jtag_dashboard\tmpl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\jtag_dashboard\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\jtag_dashboard\view.html.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\object\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\object\tmpl\.goutputstream-RH3SLW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\object\tmpl\form.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\object\tmpl\form.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\object\tmpl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\object\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\object\view.html.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\objects\assets\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\objects\groups.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\objects\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\objects\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\objects\tmpl\default.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\objects\tmpl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\objects\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\usercategories\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\usercategories\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\usercategories\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\users\assets\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\users\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\users\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\users\tmpl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\users\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\userslist\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\userslist\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\userslist\tmpl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\components\com_jtagobjectsdirectory\views\userslist\view.raw.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\language\da-DK\da-DK.com_jtagobjectsdirectory.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\language\da-DK\da-DK.com_jtagobjectsdirectory.sys.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\language\de-DE\de-DE.com_jtagobjectsdirectory.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\language\de-DE\de-DE.com_jtagobjectsdirectory.sys.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\language\en-GB\en-GB.com_jtagobjectsdirectory.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\language\en-GB\en-GB.com_jtagobjectsdirectory.sys.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\language\hr-HR\hr-HR.com_jtagobjectsdirectory.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\language\hr-HR\hr-HR.com_jtagobjectsdirectory.sys.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\language\nl-NL\nl-NL.com_jtagobjectsdirectory.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\administrator\language\nl-NL\nl-NL.com_jtagobjectsdirectory.sys.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\css\base.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\css\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\css\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\gallery_pictures\profile2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\arrow_red.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\button_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\facebook.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\l-arr.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\learn.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\mail.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\phone.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\r-arr.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\images\twitter.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\js\form-defaults.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\js\form-submit.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\js\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\js\jquery-1.4.1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\profile_pictures\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\profile_pictures\profile2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\profile_pictures\small\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\profile_pictures\small\profile2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\profile_pictures\thumb\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\assets\profile_pictures\thumb\profile2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\controller.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\helpers\countries.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\helpers\countries_list.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\helpers\helper.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\helpers\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\helpers\partial.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\jtagobjectsdirectory.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\models\categories.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\models\category.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\models\editobjectdetail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\models\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\models\objectdetails.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\models\objects.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\.goutputstream-LEPBJW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\_alphalist.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\_catlist.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\_collage.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\_list.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\_searchForm.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\_table.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\default.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\tmpl\raw.default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\view.html.php.bak" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\browselist\view.raw.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\editobjectdetail\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\editobjectdetail\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\objectdetails\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\objectdetails\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\objectdetails\tmpl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\objectdetails\tmpl\vcf.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\objectdetails\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\objectgallery\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\objectgallery\tmpl\default.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\components\com_jtagobjectsdirectory\views\objectgallery\view.html.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\language\en-GB\en-GB.com_jtagobjectsdirectory.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\pantent\language\en-GB\en-GB.com_jtagobjectsdirectory.sys.ini" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_searchForm.php" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_searchForm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/helpers/countries.php" afterPath="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/helpers/countries.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/helpers/countries.php" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/helpers/countries.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/helpers/countries_list.php" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/helpers/countries_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/memberdetails/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/memberdetails/tmpl/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com_jtag_objects_directory_2.47/frontend/assets/js/form-submit.js" afterPath="$PROJECT_DIR$/com_jtag_objects_directory_2.47/frontend/assets/js/form-submit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/js/form-submit.js" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/js/form-submit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez_20/index.php" afterPath="$PROJECT_DIR$/templates/beez_20/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/css/styles.css" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/members.php" afterPath="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/members.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/views/members/tmpl/default.php" afterPath="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/views/members/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_jtagmembersdirectory.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_jtagmembersdirectory.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_list.php" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/error.php" afterPath="$PROJECT_DIR$/logs/error.php" />
     </list>
     <ignored path="pantent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -220,89 +23,306 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="pantent" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/memberdetails/tmpl/default.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/fields/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="242" column="62" selection-start-line="239" selection-start-column="32" selection-end-line="242" selection-end-column="62" />
+            <state relative-caret-position="-8">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_searchForm.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_searchForm.php">
+      <file leaf-file-name="view.html.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/views/adduser/view.html.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8653846">
-              <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="countries_list.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/frontend/helpers/countries_list.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="32.04">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="countries.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/helpers/countries.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.68">
-              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="default.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php">
+        <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/views/adduser/tmpl/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.4074073">
-              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <marker date="1493199278334" expanded="true" signature="815:877" ph="SELECT user_... ##__jtmb_object_request" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ru-RU.com_jtagmembersdirectory.ini" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.ini">
+      <file leaf-file-name="configuration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configuration.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="-8">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form-submit.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/frontend/assets/js/form-submit.js">
+      <file leaf-file-name="install.mysql.utf8.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/install.mysql.utf8.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="5" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="-9">
+              <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PHP/C:/OpenServer/domains/pantent/com_jtag_objects_directory_2.47/admin/models" pinned="false" current-in-tab="false">
+        <entry file="uml://PHP/C:/OpenServer/domains/pantent/com_jtag_objects_directory_2.47/admin/models">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models</OriginalElement>
+              <nodes>
+                <node x="1224.0" y="553.5">\JtagobjectDirectoryModelusers</node>
+                <node x="527.0" y="388.0">\jtagobjectdirectoryModelobject</node>
+                <node x="291.0" y="553.5">\JtagobjectDirectoryModelCategory</node>
+                <node x="996.0" y="575.5">\jtagobjectdirectoryModeluserslist</node>
+                <node x="734.75" y="0.0">\JModel</node>
+                <node x="814.75" y="277.0">\JModelLegacy</node>
+                <node x="0.0" y="509.0">\jtagobjectdirectoryModeldispayoptions</node>
+                <node x="1452.0" y="399.0">\jtagobjectdirectoryModelobjects</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="\JtagobjectDirectoryModelusers" target="\JModelLegacy">
+                  <point x="0.0" y="-47.5" />
+                  <point x="1328.0" y="358.0" />
+                  <point x="981.25" y="358.0" />
+                  <point x="55.5" y="25.5" />
+                </edge>
+                <edge source="\jtagobjectdirectoryModelobjects" target="\JModelLegacy">
+                  <point x="0.0" y="-202.0" />
+                  <point x="1662.5" y="348.0" />
+                  <point x="1018.25" y="348.0" />
+                  <point x="92.5" y="25.5" />
+                </edge>
+                <edge source="\jtagobjectdirectoryModeluserslist" target="\JModelLegacy">
+                  <point x="0.0" y="-25.5" />
+                  <point x="1100.0" y="368.0" />
+                  <point x="944.25" y="368.0" />
+                  <point x="18.5" y="25.5" />
+                </edge>
+                <edge source="\JModelLegacy" target="\JModel">
+                  <point x="0.0" y="-25.5" />
+                  <point x="0.0" y="113.5" />
+                </edge>
+                <edge source="\JtagobjectDirectoryModelCategory" target="\JModelLegacy">
+                  <point x="0.0" y="-47.5" />
+                  <point x="399.0" y="358.0" />
+                  <point x="870.25" y="358.0" />
+                  <point x="-55.5" y="25.5" />
+                </edge>
+                <edge source="\jtagobjectdirectoryModelobject" target="\JModelLegacy">
+                  <point x="0.0" y="-213.0" />
+                  <point x="751.5" y="368.0" />
+                  <point x="907.25" y="368.0" />
+                  <point x="-18.5" y="25.5" />
+                </edge>
+                <edge source="\jtagobjectdirectoryModeldispayoptions" target="\JModelLegacy">
+                  <point x="0.0" y="-92.0" />
+                  <point x="135.5" y="348.0" />
+                  <point x="833.25" y="348.0" />
+                  <point x="-92.5" y="25.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.8860655737704912" x="559.8603145235895" y="541.8603145235895" />
+              <SelectedNodes>
+                <node>\JModelLegacy</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Methods</Category>
+                <Category>Fields</Category>
+              </Categories>
+              <VISIBILITY>public</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PHP/C:/OpenServer/domains/pantent/com_jtag_objects_directory_2.47/admin/controllers" pinned="false" current-in-tab="true">
+        <entry file="uml://PHP/C:/OpenServer/domains/pantent/com_jtag_objects_directory_2.47/admin/controllers">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/controllers</OriginalElement>
+              <nodes>
+                <node x="157.0" y="886.0">\JTagobjectDirectoryControllerFilters</node>
+                <node x="654.0" y="886.0">\JtagobjectDirectoryControllerUsers</node>
+                <node x="361.0" y="0.0">\JObject</node>
+                <node x="228.5" y="299.0">\JController</node>
+                <node x="889.0" y="886.0">\JTagobjectDirectoryControllerCategories</node>
+                <node x="400.0" y="886.0">\JTagobjectDirectoryControllerAdduser</node>
+                <node x="0.0" y="875.0">\MediaControllerFile</node>
+                <node x="454.0" y="796.0">\JControllerLegacy</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="\JTagobjectDirectoryControllerAdduser" target="\JControllerLegacy">
+                  <point x="0.0" y="-25.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="\JtagobjectDirectoryControllerUsers" target="\JControllerLegacy">
+                  <point x="0.0" y="-25.5" />
+                  <point x="761.5" y="855.0" />
+                  <point x="542.2" y="855.0" />
+                  <point x="25.200000000000045" y="14.5" />
+                </edge>
+                <edge source="\JController" target="\JObject">
+                  <point x="0.0" y="-223.5" />
+                  <point x="0.0" y="124.5" />
+                </edge>
+                <edge source="\MediaControllerFile" target="\JControllerLegacy">
+                  <point x="0.0" y="-36.5" />
+                  <point x="68.5" y="845.0" />
+                  <point x="466.6" y="845.0" />
+                  <point x="-50.39999999999998" y="14.5" />
+                </edge>
+                <edge source="\JControllerLegacy" target="\JController">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="223.5" />
+                </edge>
+                <edge source="\JTagobjectDirectoryControllerCategories" target="\JControllerLegacy">
+                  <point x="0.0" y="-25.5" />
+                  <point x="1012.0" y="845.0" />
+                  <point x="567.4" y="845.0" />
+                  <point x="50.39999999999998" y="14.5" />
+                </edge>
+                <edge source="\JTagobjectDirectoryControllerFilters" target="\JControllerLegacy">
+                  <point x="0.0" y="-25.5" />
+                  <point x="268.5" y="855.0" />
+                  <point x="491.8" y="855.0" />
+                  <point x="-25.19999999999999" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="566.5" y="553.5" />
+              <SelectedNodes>
+                <node>\JControllerLegacy</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Methods</Category>
+              </Categories>
+              <VISIBILITY>public</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="objects.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models/objects.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <marker date="1493199278312" expanded="true" signature="4114:4401" ph="SELECT c.id,... ##__jtmb_objects_directory" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assigncategories.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models/assigncategories.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1493199278308" expanded="true" signature="969:1024" ph="SELECT id FR... ##__jtmb_objects_directory" />
+                <marker date="1493199278308" expanded="true" signature="1141:1205" ph="SELECT objec... ##__jtmb_assigned_categories" />
+                <marker date="1493199278308" expanded="true" signature="1358:1511" ph="SELECT id,na... ##__jtmb_categories" />
+                <marker date="1493199278308" expanded="true" signature="1414:1493" ph="Select CONCA... ##__jtmb_assigned_categories" />
+                <marker date="1493199278308" expanded="true" signature="1555:1607" ph="SELECT id,na... ##__jtmb_categories" />
+                <marker date="1493199278308" expanded="true" signature="1758:1912" ph="Select objec... ##__jtmb_assigned_categories" />
+                <marker date="1493199278308" expanded="true" signature="1830:1890" ph="SELECT id FR... ##__jtmb_objects_directory" />
+                <marker date="1493199278308" expanded="true" signature="2008:2157" ph="INSERT INTO `##__jtmb_assigned_categories`... " />
+                <marker date="1493199278308" expanded="true" signature="2078:2139" ph="SELECT id FR... ##__jtmb_objects_directory" />
+                <marker date="1493199278308" expanded="true" signature="2285:2406" ph="DELETE FROM " />
+                <marker date="1493199278308" expanded="true" signature="2343:2398" ph="SELECT id FR... ##__jtmb_objects_directory" />
+                <marker date="1493199278308" expanded="true" signature="2521:2576" ph="SELECT id FR... ##__jtmb_objects_directory" />
+                <marker date="1493199278308" expanded="true" signature="2690:2819" ph="SELECT d.cat... ##__jtmb_categories" />
+                <marker date="1493199278308" expanded="true" signature="2978:3033" ph="SELECT id FR... ##__jtmb_objects_directory" />
+                <marker date="1493199278308" expanded="true" signature="3204:3261" ph="DELETE FROM " />
+                <marker date="1493199278308" expanded="true" signature="3383:3674" ph="SELECT c.id,... ##__jtmb_objects_directory" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Use Case" />
+        <option value="UML Activity" />
+        <option value="UML Class" />
+        <option value="UML Sequence" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$id</find>
+      <find>create</find>
+      <find>creat</find>
+      <find>crea</find>
+      <find>cre</find>
+      <find>cr</find>
+      <find>Use</find>
+      <find>Us</find>
+      <find>U</find>
+      <find>n</find>
+      <find>name</find>
+      <find>user_id</find>
+      <find>getOrCreateMember</find>
+      <find>/administrator/index.php</find>
+      <find>Phone No.</find>
+      <find>user_</find>
+      <find>User</find>
+      <find>jform_username</find>
+      <find>JTAG_MEMBER_NEW_FORM_USER</find>
+      <find>front</find>
+      <find>пу</find>
+      <find>п</find>
+      <find>g</find>
+      <find>ge</find>
+      <find>geo</find>
+      <find>geoc</find>
+      <find>geoco</find>
+      <find>geocode</find>
+      <find>Read the full profile</find>
+      <find>phone</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\OpenServer\domains\pantent\</dir>
+      <dir>C:\OpenServer\domains\pantent\administrator\components\com_jtagmembersdirectory</dir>
+      <dir>C:\OpenServer\domains\pantent\language</dir>
+      <dir>C:\OpenServer\domains\pantent\components\com_jtagmembersdirectory</dir>
+      <dir>C:\OpenServer\domains\pantent</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -310,18 +330,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/templates/jsn_air_free/index.php" />
-        <option value="$PROJECT_DIR$/templates/jsn_air_free/html/modules.php" />
-        <option value="$PROJECT_DIR$/.plugins/com_jtag_members_directory_2.47/frontend/views/browselist/tmpl/_list.php" />
-        <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_list.php" />
-        <option value="$PROJECT_DIR$/.plugins/com_jtag_members_directory_2.47/admin/language/en-GB/en-GB.com_jtagmembersdirectory.ini" />
-        <option value="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_jtagmembersdirectory.ini" />
-        <option value="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.ini" />
-        <option value="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/jtagmembersdirectory.php" />
-        <option value="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/jtagmembersdirectory.xml" />
-        <option value="$PROJECT_DIR$/templates/beez_20/css/custom/main.css" />
-        <option value="$PROJECT_DIR$/.plugins/com_jtag_members_directory_2.47/frontend/views/browselist/tmpl/_searchForm.php" />
-        <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_alphalist.php" />
         <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_catlist.php" />
         <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/css/base.css" />
         <option value="$PROJECT_DIR$/com_jtag_members_directory_2.47/admin/assets/js/retrvusers.js" />
@@ -354,43 +362,45 @@
         <option value="$PROJECT_DIR$/com_jtag_objects_directory_2.47/frontend/assets/js/form-submit.js" />
         <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/js/form-submit.js" />
         <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/memberdetails/tmpl/default.php" />
-        <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php" />
         <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_searchForm.php" />
         <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/helpers/countries.php" />
         <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/helpers/countries_list.php" />
         <option value="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/helpers/countries.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/member.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/dispayoptions.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/members.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/views/members/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/users.php" />
+        <option value="$PROJECT_DIR$/tmp/activity.puml" />
+        <option value="$PROJECT_DIR$/tmp/seq.puml" />
+        <option value="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.sys.ini" />
+        <option value="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_jtagmembersdirectory.ini" />
+        <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php" />
+        <option value="$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.sys.ini" />
+        <option value="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.ini" />
         <option value="$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.ini" />
+        <option value="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_list.php" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-  </component>
-  <component name="NamedScopeManager">
-    <order />
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -402,6 +412,8 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
@@ -411,29 +423,9 @@
               <option name="myItemId" value="pantent" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -443,269 +435,148 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beez_20" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beez_20" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ru-RU" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_jtagmembersdirectory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_jtagmembersdirectory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_jtagmembersdirectory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="memberdetails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_jtagmembersdirectory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="memberdetails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tmpl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_jtagmembersdirectory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="browselist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com_jtagmembersdirectory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="browselist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tmpl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pantent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="com_jtag_objects_directory_2.47" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pantent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pantent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_jtag_objects_directory_2.47" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pantent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pantent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_jtag_objects_directory_2.47" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pantent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pantent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_jtag_objects_directory_2.47" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pantent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pantent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_jtag_objects_directory_2.47" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fields" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="C:/downloads" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (jTds)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\OpenServer\domains\pantent\language\ru-RU" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -719,10 +590,15 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -731,8 +607,30 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -741,33 +639,59 @@
       <changelist id="c438f9ae-39fa-44a5-8283-2ff5488a7008" name="Default" comment="" />
       <created>1490091935022</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1490091935022</updated>
+      <workItem from="1494070065468" duration="2811000" />
+      <workItem from="1494325519172" duration="2000" />
+      <workItem from="1494325539119" duration="8182000" />
+      <workItem from="1494346215546" duration="674000" />
+      <workItem from="1494346938860" duration="4311000" />
+      <workItem from="1494576233778" duration="1896000" />
+      <workItem from="1494581987960" duration="1855000" />
+      <workItem from="1494958561927" duration="3119000" />
+      <workItem from="1495007439715" duration="4085000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26935000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18656716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32608697" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3881748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20501286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06824513" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -787,391 +711,525 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/jtagmembersdirectory.xml">
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/views/adduser/view.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="144">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/assets/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/userslist.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="49" column="1" lean-forward="false" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1328">
+          <caret line="92" column="22" lean-forward="false" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/members.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="66" column="28" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/changelog">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/class.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/seq.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/activity.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/use_case.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/gallery_pictures/profile2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/images/button_bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/profile_pictures/e5b43655b09d8e15d697e01334a7273a.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/profile_pictures/thumb/e5b43655b09d8e15d697e01334a7273a.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/profile_pictures/small/profile2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/install.mysql.utf8.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/views/adduser/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/config.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/assets/css/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/system/component.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/system/html/modules.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5704699">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/system/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/beez_20/css/custom/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="293" column="26" selection-start-line="293" selection-start-column="26" selection-end-line="293" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/jtagmembersdirectory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.703704">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/views/filters/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-50.56">
-          <caret line="88" column="14" selection-start-line="88" selection-start-column="14" selection-end-line="88" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="160">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/views/member/tmpl/form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="243" column="4" selection-start-line="243" selection-start-column="4" selection-end-line="243" selection-end-column="4" />
+        <state relative-caret-position="240">
+          <caret line="24" column="83" lean-forward="false" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_alphalist.php">
+    <entry file="file://$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.sys.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_catlist.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="244" selection-start-line="52" selection-start-column="244" selection-end-line="52" selection-end-column="244" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/de-DE/de-DE.com_jtagobjectsdirectory.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="126" column="19" selection-start-line="126" selection-start-column="19" selection-end-line="126" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/de-DE/de-DE.com_jtagobjectsdirectory.sys.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="120" column="19" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+        <state relative-caret-position="896">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_jtagmembersdirectory.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
+        <state relative-caret-position="1360">
+          <caret line="85" column="44" lean-forward="false" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/views/objects/view.html.php">
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/view.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.44">
-          <caret line="57" column="55" selection-start-line="57" selection-start-column="55" selection-end-line="57" selection-end-column="55" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/nl-NL/nl-NL.com_jtagobjectsdirectory.sys.ini">
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/membergallery/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="113" column="21" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/nl-NL/nl-NL.com_jtagobjectsdirectory.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/nb-NO/nb-NO.com_jtagobjectsdirectory.sys.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="120" column="19" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/nb-NO/nb-NO.com_jtagobjectsdirectory.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="119" column="19" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/hr-HR/hr-HR.com_jtagobjectsdirectory.sys.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="125" column="19" selection-start-line="125" selection-start-column="19" selection-end-line="125" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/hr-HR/hr-HR.com_jtagobjectsdirectory.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/en-GB/en-GB.com_jtagobjectsdirectory.sys.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="120" column="19" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_joomlaupdate/restore.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="551" column="31" selection-start-line="551" selection-start-column="31" selection-end-line="551" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/jtagobjectsdirectory.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/da-DK/da-DK.com_jtagobjectsdirectory.sys.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/language/da-DK/da-DK.com_jtagobjectsdirectory.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/views/members/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.72">
-          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/memberdetails/view.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.96">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/jtagmembersdirectory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/membergallery/view.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/memberdetails/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4032">
+          <caret line="252" column="37" lean-forward="false" selection-start-line="252" selection-start-column="37" selection-end-line="252" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="88" column="6" lean-forward="false" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.sys.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="53" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="53" lean-forward="false" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="167" lean-forward="false" selection-start-line="36" selection-start-column="167" selection-end-line="36" selection-end-column="167" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/memberdetails/tmpl/index.html">
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/js/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/memberdetails/tmpl/vcf.php">
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/js/form-defaults.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/js/form-submit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="672">
+          <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/beez_20/index.php">
+    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1493203213767" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1493203213767" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1493203213767" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1493203213767" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1490092311013" expanded="true" signature="6965:7018" ph="UPDATE `##__j... " />
+            <marker date="1490092311013" expanded="true" signature="7090:7136" ph="SELECT user_... ##__jtmb_members_directory" />
+            <marker date="1490092311013" expanded="true" signature="7300:7322" ph="SELECT * FRO... ##__users" />
+            <marker date="1490092311013" expanded="true" signature="7904:8005" ph="UPDATE `##__j... " />
+            <marker date="1490092311013" expanded="true" signature="8141:8261" ph="INSERT INTO ##__jtmb_members_directory... " />
+            <marker date="1490092311013" expanded="true" signature="10480:10578" ph="SELECT user_... ##__jtmb_member_request" />
+            <marker date="1490092311013" expanded="true" signature="11210:11281" ph="DELETE FROM " />
+            <marker date="1490092311013" expanded="true" signature="11464:11621" ph="INSERT INTO ##__jtmb_members_directory... " />
+            <marker date="1490092311013" expanded="true" signature="12509:12580" ph="DELETE FROM " />
+            <marker date="1490092311013" expanded="true" signature="13619:13665" ph="SELECT user_... ##__jtmb_members_directory" />
+            <marker date="1490092311013" expanded="true" signature="13896:13949" ph="SELECT id FR... ##__usergroups" />
+            <marker date="1490092311013" expanded="true" signature="14077:14145" ph="SELECT user_... ##__user_usergroup_map" />
+            <marker date="1490092311013" expanded="true" signature="14421:14506" ph="update `##__j... " />
+            <marker date="1490092311013" expanded="true" signature="14612:14659" ph="SELECT * FRO... ##__users" />
+            <marker date="1490092311013" expanded="true" signature="15626:15750" ph="INSERT INTO ##__jtmb_members_directory... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/view.html.php">
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/fields/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/memberdetails/tmpl/default.php">
+    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/views/adduser/view.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="242" column="62" selection-start-line="239" selection-start-column="32" selection-end-line="242" selection-end-column="62" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/frontend/assets/js/form-submit.js">
+    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/views/adduser/tmpl/default.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="5" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/frontend/helpers/countries_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="32.04">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17977528">
-          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/helpers/countries.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5323993">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/helpers/countries_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32107022">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/helpers/countries.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53511703">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/helpers/countries.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.68">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_searchForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8653846">
-          <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.4074073">
-          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1493199278334" expanded="true" signature="815:877" ph="SELECT user_... ##__jtmb_object_request" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.ini">
+    <entry file="file://$PROJECT_DIR$/configuration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/install.mysql.utf8.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models/assigncategories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493199278308" expanded="true" signature="969:1024" ph="SELECT id FR... ##__jtmb_objects_directory" />
+            <marker date="1493199278308" expanded="true" signature="1141:1205" ph="SELECT objec... ##__jtmb_assigned_categories" />
+            <marker date="1493199278308" expanded="true" signature="1358:1511" ph="SELECT id,na... ##__jtmb_categories" />
+            <marker date="1493199278308" expanded="true" signature="1414:1493" ph="Select CONCA... ##__jtmb_assigned_categories" />
+            <marker date="1493199278308" expanded="true" signature="1555:1607" ph="SELECT id,na... ##__jtmb_categories" />
+            <marker date="1493199278308" expanded="true" signature="1758:1912" ph="Select objec... ##__jtmb_assigned_categories" />
+            <marker date="1493199278308" expanded="true" signature="1830:1890" ph="SELECT id FR... ##__jtmb_objects_directory" />
+            <marker date="1493199278308" expanded="true" signature="2008:2157" ph="INSERT INTO `##__jtmb_assigned_categories`... " />
+            <marker date="1493199278308" expanded="true" signature="2078:2139" ph="SELECT id FR... ##__jtmb_objects_directory" />
+            <marker date="1493199278308" expanded="true" signature="2285:2406" ph="DELETE FROM " />
+            <marker date="1493199278308" expanded="true" signature="2343:2398" ph="SELECT id FR... ##__jtmb_objects_directory" />
+            <marker date="1493199278308" expanded="true" signature="2521:2576" ph="SELECT id FR... ##__jtmb_objects_directory" />
+            <marker date="1493199278308" expanded="true" signature="2690:2819" ph="SELECT d.cat... ##__jtmb_categories" />
+            <marker date="1493199278308" expanded="true" signature="2978:3033" ph="SELECT id FR... ##__jtmb_objects_directory" />
+            <marker date="1493199278308" expanded="true" signature="3204:3261" ph="DELETE FROM " />
+            <marker date="1493199278308" expanded="true" signature="3383:3674" ph="SELECT c.id,... ##__jtmb_objects_directory" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models/objects.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <marker date="1493199278312" expanded="true" signature="4114:4401" ph="SELECT c.id,... ##__jtmb_objects_directory" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models/userslist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <marker date="1493199278313" expanded="true" signature="856:947" ph="SELECT u.id,... ##__users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/fields/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/helpers/_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/C:/OpenServer/domains/pantent/com_jtag_objects_directory_2.47/admin/models">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models</OriginalElement>
+          <nodes>
+            <node x="1224.0" y="553.5">\JtagobjectDirectoryModelusers</node>
+            <node x="527.0" y="388.0">\jtagobjectdirectoryModelobject</node>
+            <node x="291.0" y="553.5">\JtagobjectDirectoryModelCategory</node>
+            <node x="996.0" y="575.5">\jtagobjectdirectoryModeluserslist</node>
+            <node x="734.75" y="0.0">\JModel</node>
+            <node x="814.75" y="277.0">\JModelLegacy</node>
+            <node x="0.0" y="509.0">\jtagobjectdirectoryModeldispayoptions</node>
+            <node x="1452.0" y="399.0">\jtagobjectdirectoryModelobjects</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\JtagobjectDirectoryModelusers" target="\JModelLegacy">
+              <point x="0.0" y="-47.5" />
+              <point x="1328.0" y="358.0" />
+              <point x="981.25" y="358.0" />
+              <point x="55.5" y="25.5" />
+            </edge>
+            <edge source="\jtagobjectdirectoryModelobjects" target="\JModelLegacy">
+              <point x="0.0" y="-202.0" />
+              <point x="1662.5" y="348.0" />
+              <point x="1018.25" y="348.0" />
+              <point x="92.5" y="25.5" />
+            </edge>
+            <edge source="\jtagobjectdirectoryModeluserslist" target="\JModelLegacy">
+              <point x="0.0" y="-25.5" />
+              <point x="1100.0" y="368.0" />
+              <point x="944.25" y="368.0" />
+              <point x="18.5" y="25.5" />
+            </edge>
+            <edge source="\JModelLegacy" target="\JModel">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="113.5" />
+            </edge>
+            <edge source="\JtagobjectDirectoryModelCategory" target="\JModelLegacy">
+              <point x="0.0" y="-47.5" />
+              <point x="399.0" y="358.0" />
+              <point x="870.25" y="358.0" />
+              <point x="-55.5" y="25.5" />
+            </edge>
+            <edge source="\jtagobjectdirectoryModelobject" target="\JModelLegacy">
+              <point x="0.0" y="-213.0" />
+              <point x="751.5" y="368.0" />
+              <point x="907.25" y="368.0" />
+              <point x="-18.5" y="25.5" />
+            </edge>
+            <edge source="\jtagobjectdirectoryModeldispayoptions" target="\JModelLegacy">
+              <point x="0.0" y="-92.0" />
+              <point x="135.5" y="348.0" />
+              <point x="833.25" y="348.0" />
+              <point x="-92.5" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8860655737704912" x="559.8603145235895" y="541.8603145235895" />
+          <SelectedNodes>
+            <node>\JModelLegacy</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <VISIBILITY>public</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/C:/OpenServer/domains/pantent/com_jtag_objects_directory_2.47/admin/controllers">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/controllers</OriginalElement>
+          <nodes>
+            <node x="157.0" y="886.0">\JTagobjectDirectoryControllerFilters</node>
+            <node x="654.0" y="886.0">\JtagobjectDirectoryControllerUsers</node>
+            <node x="361.0" y="0.0">\JObject</node>
+            <node x="228.5" y="299.0">\JController</node>
+            <node x="889.0" y="886.0">\JTagobjectDirectoryControllerCategories</node>
+            <node x="400.0" y="886.0">\JTagobjectDirectoryControllerAdduser</node>
+            <node x="0.0" y="875.0">\MediaControllerFile</node>
+            <node x="454.0" y="796.0">\JControllerLegacy</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\JTagobjectDirectoryControllerAdduser" target="\JControllerLegacy">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="\JtagobjectDirectoryControllerUsers" target="\JControllerLegacy">
+              <point x="0.0" y="-25.5" />
+              <point x="761.5" y="855.0" />
+              <point x="542.2" y="855.0" />
+              <point x="25.200000000000045" y="14.5" />
+            </edge>
+            <edge source="\JController" target="\JObject">
+              <point x="0.0" y="-223.5" />
+              <point x="0.0" y="124.5" />
+            </edge>
+            <edge source="\MediaControllerFile" target="\JControllerLegacy">
+              <point x="0.0" y="-36.5" />
+              <point x="68.5" y="845.0" />
+              <point x="466.6" y="845.0" />
+              <point x="-50.39999999999998" y="14.5" />
+            </edge>
+            <edge source="\JControllerLegacy" target="\JController">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="223.5" />
+            </edge>
+            <edge source="\JTagobjectDirectoryControllerCategories" target="\JControllerLegacy">
+              <point x="0.0" y="-25.5" />
+              <point x="1012.0" y="845.0" />
+              <point x="567.4" y="845.0" />
+              <point x="50.39999999999998" y="14.5" />
+            </edge>
+            <edge source="\JTagobjectDirectoryControllerFilters" target="\JControllerLegacy">
+              <point x="0.0" y="-25.5" />
+              <point x="268.5" y="855.0" />
+              <point x="491.8" y="855.0" />
+              <point x="-25.19999999999999" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="566.5" y="553.5" />
+          <SelectedNodes>
+            <node>\JControllerLegacy</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>public</VISIBILITY>
         </state>
       </provider>
     </entry>

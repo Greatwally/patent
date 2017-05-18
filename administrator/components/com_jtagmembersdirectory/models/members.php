@@ -1,6 +1,6 @@
 <?php
 /*------------------------------------------------------------------------
-# com_joomlatag_members_directory – Jtag Members Directory
+# com_joomlatag_members_directory ï¿½ Jtag Members Directory
 # ------------------------------------------------------------------------
 # author    Joomlatag.com
 # copyright Copyright (C) 2011 Joomlatag. All Rights Reserved.
@@ -127,7 +127,7 @@ if ($phone) {
 if ($cat) {
 	 		$sql .= " AND LOWER( b.name ) LIKE ".$db->Quote('%'.$db->escape($cat, true).'%', false);
         } 
-$sql .="GROUP BY c.user_id";
+$sql .="GROUP BY c.id";
 /* End - Snehal Kulkarni- 07/11/2012- Change query for multiple categories to single user*/
 
     return $sql;
@@ -149,7 +149,7 @@ $sql .="GROUP BY c.user_id";
   }
 public function publish($cid = array(), $publish = 1)
 	{
-		
+
 		$user 	=& JFactory::getUser();
 
 		if (count( $cid ))
@@ -167,12 +167,12 @@ public function publish($cid = array(), $publish = 1)
 				return false;
 			}
 		}
-		
-	
-		
+
+
+
 
 		return true;
 	}
-  
-  
+
+
 }

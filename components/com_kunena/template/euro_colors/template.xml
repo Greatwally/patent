@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE kinstall>
+<kinstall type="kunena-template" version="2.0">
+	<name>Euro Colors</name>
+	<creationDate>2015-10-09</creationDate>
+	<version>3.1</version>
+	<author>Kevin Mamaqi</author>
+	<authorEmail>kevinmamaqi@gmail.com</authorEmail>
+	<authorUrl>http://www.kevinmamaqi.com</authorUrl>
+	<copyright>Kevin Mamaqi</copyright>
+	<description>COM_KUNENA_TEMPLATE_DESCRIPTION</description>
+	<thumbnail>template_thumbnail.png</thumbnail>
+</kinstall>

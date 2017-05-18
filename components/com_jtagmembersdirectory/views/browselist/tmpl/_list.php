@@ -22,19 +22,19 @@ defined('_JEXEC') or die('Restricted access');
       <?php foreach ($users as $user): ?>
       <li>
 	  <a href="<?php echo JRoute::_('index.php?option=com_jtagmembersdirectory&format=html&task=memberDetails&mid='.$user->id) ?>">
-	  <img width="89" src="components/com_jtagmembersdirectory/assets/profile_pictures/thumb/<?php echo $user->profile_picture ? $user->profile_picture : 'profile2.jpg' ?>" alt="<?php echo $user->name ?>'s photo" /></a>	
-  
-        <div style="clear: both; float: left; margin:5px;">
+	  <img width="89" src="components/com_jtagmembersdirectory/assets/profile_pictures/thumb/<?php echo $user->profile_picture ? $user->profile_picture : 'profile2.jpg' ?>" alt="<?php echo $user->name ?>'s photo" /></a>
+
+        <div style="clear: both; float: left; margin:5px 0;">
 
                  
 
         	<?php if($user_id==0):?>
               <?php if(($options->display_nr_email==1 || !$options) && $user->Email):?>
-            		<a href="mailto:<?php echo $user->Email; ?>"><img src="components/com_jtagmembersdirectory/assets/images/mail.gif"/></a>
+            		<a href="mailto:<?php echo $user->Email; ?>"><img src="components/com_jtagmembersdirectory/assets/images/mail.gif" style="margin-right: 5px;border-color: #fff;"/><?php echo $user->Email; ?></a>
               <?php endif;?>   
             <?php else:?>
               <?php if( $user->Email):?>
-				<a href="mailto:<?php echo $user->Email; ?>"><img src="components/com_jtagmembersdirectory/assets/images/mail.gif"/></a>
+				<a href="mailto:<?php echo $user->Email; ?>"><img src="components/com_jtagmembersdirectory/assets/images/mail.gif" style="margin-right: 5px;border-color: #fff;"/><?php echo $user->Email; ?></a>
               <?php endif;?>
             <?php endif;?>  
             
@@ -59,17 +59,7 @@ defined('_JEXEC') or die('Restricted access');
         			<a <?php echo $user->twitter_page ? 'href=http://'.$user->twitter_page.' target="_blank"' : 'href="#" onclick="return false;"' ?>><img src="components/com_jtagmembersdirectory/assets/images/twitter.gif"/></a>
             <?php endif;?>
           <?php endif;?>  
-	
-	
-		<?php if($user_id==0):?>
-            <?php if(($options->display_nr_phone_no==1|| !$options) && $user->phone_no):?>
-			<div><img src="components/com_jtagmembersdirectory/assets/images/phone.gif"/><?php echo $user->phone_no; ?></div>
-            <?php endif;?>
-          <?php else:?>
-            <?php if( $user->phone_no && ($options->display_phone_no || !$options)):?>
-				<div><img src="components/com_jtagmembersdirectory/assets/images/phone.gif"/><?php echo $user->phone_no; ?></div>        
-            <?php endif;?>
-          <?php endif;?>  
+
 		
 		</div>		
 		
@@ -92,9 +82,6 @@ defined('_JEXEC') or die('Restricted access');
 		  <?php echo $user->member_since; ?><br>-->
         
 
-            
-
-      
 		<br>
 		  <a href="<?php echo JRoute::_('index.php?option=com_jtagmembersdirectory&format=html&task=memberDetails&mid='.$user->id) ?>" class="more"><?php echo JText:: _('JTAG_USER_LIST_VIEW_FULL_PROFILE');?></a>
      
