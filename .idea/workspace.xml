@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c438f9ae-39fa-44a5-8283-2ff5488a7008" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/members.php" afterPath="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/models/members.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/views/members/tmpl/default.php" afterPath="$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/views/members/tmpl/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_jtagmembersdirectory.ini" afterPath="$PROJECT_DIR$/administrator/language/en-GB/en-GB.com_jtagmembersdirectory.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_list.php" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php" afterPath="$PROJECT_DIR$/components/com_jtagmembersdirectory/views/browselist/tmpl/default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_jtagmembersdirectory.sys.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.ini" afterPath="$PROJECT_DIR$/language/ru-RU/ru-RU.com_jtagmembersdirectory.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/error.php" afterPath="$PROJECT_DIR$/logs/error.php" />
-    </list>
+    <list default="true" id="c438f9ae-39fa-44a5-8283-2ff5488a7008" name="Default" comment="" />
     <ignored path="pantent.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -44,7 +33,7 @@
       <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/fields/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -76,7 +65,7 @@
       <file leaf-file-name="configuration.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/configuration.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -86,7 +75,7 @@
       <file leaf-file-name="install.mysql.utf8.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/install.mysql.utf8.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
+            <state relative-caret-position="400">
               <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
               <folding />
             </state>
@@ -100,28 +89,34 @@
               <ID>PHP</ID>
               <OriginalElement>$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models</OriginalElement>
               <nodes>
-                <node x="1224.0" y="553.5">\JtagobjectDirectoryModelusers</node>
-                <node x="527.0" y="388.0">\jtagobjectdirectoryModelobject</node>
-                <node x="291.0" y="553.5">\JtagobjectDirectoryModelCategory</node>
-                <node x="996.0" y="575.5">\jtagobjectdirectoryModeluserslist</node>
-                <node x="734.75" y="0.0">\JModel</node>
                 <node x="814.75" y="277.0">\JModelLegacy</node>
                 <node x="0.0" y="509.0">\jtagobjectdirectoryModeldispayoptions</node>
                 <node x="1452.0" y="399.0">\jtagobjectdirectoryModelobjects</node>
+                <node x="291.0" y="553.5">\JtagobjectDirectoryModelCategory</node>
+                <node x="996.0" y="575.5">\jtagobjectdirectoryModeluserslist</node>
+                <node x="1224.0" y="553.5">\JtagobjectDirectoryModelusers</node>
+                <node x="527.0" y="388.0">\jtagobjectdirectoryModelobject</node>
+                <node x="734.75" y="0.0">\JModel</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="\JtagobjectDirectoryModelusers" target="\JModelLegacy">
-                  <point x="0.0" y="-47.5" />
-                  <point x="1328.0" y="358.0" />
-                  <point x="981.25" y="358.0" />
-                  <point x="55.5" y="25.5" />
+                <edge source="\jtagobjectdirectoryModeldispayoptions" target="\JModelLegacy">
+                  <point x="0.0" y="-92.0" />
+                  <point x="135.5" y="348.0" />
+                  <point x="833.25" y="348.0" />
+                  <point x="-92.5" y="25.5" />
                 </edge>
                 <edge source="\jtagobjectdirectoryModelobjects" target="\JModelLegacy">
                   <point x="0.0" y="-202.0" />
                   <point x="1662.5" y="348.0" />
                   <point x="1018.25" y="348.0" />
                   <point x="92.5" y="25.5" />
+                </edge>
+                <edge source="\JtagobjectDirectoryModelusers" target="\JModelLegacy">
+                  <point x="0.0" y="-47.5" />
+                  <point x="1328.0" y="358.0" />
+                  <point x="981.25" y="358.0" />
+                  <point x="55.5" y="25.5" />
                 </edge>
                 <edge source="\jtagobjectdirectoryModeluserslist" target="\JModelLegacy">
                   <point x="0.0" y="-25.5" />
@@ -145,20 +140,14 @@
                   <point x="907.25" y="368.0" />
                   <point x="-18.5" y="25.5" />
                 </edge>
-                <edge source="\jtagobjectdirectoryModeldispayoptions" target="\JModelLegacy">
-                  <point x="0.0" y="-92.0" />
-                  <point x="135.5" y="348.0" />
-                  <point x="833.25" y="348.0" />
-                  <point x="-92.5" y="25.5" />
-                </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="0.8860655737704912" x="559.8603145235895" y="541.8603145235895" />
+              <settings layout="Hierarchic Group" zoom="0.8860655737704912" x="560.0" y="542.0" />
               <SelectedNodes>
                 <node>\JModelLegacy</node>
               </SelectedNodes>
               <Categories>
-                <Category>Methods</Category>
                 <Category>Fields</Category>
+                <Category>Methods</Category>
               </Categories>
               <VISIBILITY>public</VISIBILITY>
             </state>
@@ -172,14 +161,14 @@
               <ID>PHP</ID>
               <OriginalElement>$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/controllers</OriginalElement>
               <nodes>
-                <node x="157.0" y="886.0">\JTagobjectDirectoryControllerFilters</node>
                 <node x="654.0" y="886.0">\JtagobjectDirectoryControllerUsers</node>
+                <node x="157.0" y="886.0">\JTagobjectDirectoryControllerFilters</node>
                 <node x="361.0" y="0.0">\JObject</node>
-                <node x="228.5" y="299.0">\JController</node>
                 <node x="889.0" y="886.0">\JTagobjectDirectoryControllerCategories</node>
+                <node x="228.5" y="299.0">\JController</node>
                 <node x="400.0" y="886.0">\JTagobjectDirectoryControllerAdduser</node>
-                <node x="0.0" y="875.0">\MediaControllerFile</node>
                 <node x="454.0" y="796.0">\JControllerLegacy</node>
+                <node x="0.0" y="875.0">\MediaControllerFile</node>
               </nodes>
               <notes />
               <edges>
@@ -220,7 +209,7 @@
                   <point x="-25.19999999999999" y="14.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="566.5" y="553.5" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="943.5" y="451.5" />
               <SelectedNodes>
                 <node>\JControllerLegacy</node>
               </SelectedNodes>
@@ -235,7 +224,7 @@
       <file leaf-file-name="objects.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models/objects.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
+            <state relative-caret-position="112">
               <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
               <folding>
                 <marker date="1493199278312" expanded="true" signature="4114:4401" ph="SELECT c.id,... ##__jtmb_objects_directory" />
@@ -247,7 +236,7 @@
       <file leaf-file-name="assigncategories.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models/assigncategories.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <marker date="1493199278308" expanded="true" signature="969:1024" ph="SELECT id FR... ##__jtmb_objects_directory" />
@@ -416,6 +405,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -528,13 +518,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/downloads" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (jTds)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -650,11 +639,12 @@
       <workItem from="1494581987960" duration="1855000" />
       <workItem from="1494958561927" duration="3119000" />
       <workItem from="1495007439715" duration="4085000" />
+      <workItem from="1495126466698" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26935000" />
+    <option name="totallyTimeSpent" value="26975000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -667,18 +657,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3881748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20501286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20758355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06824513" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.54456824" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -687,6 +675,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -936,7 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="36" column="167" lean-forward="false" selection-start-line="36" selection-start-column="167" selection-end-line="36" selection-end-column="167" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -951,7 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -959,7 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
           <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -967,7 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -975,29 +960,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490092311013" expanded="true" signature="6965:7018" ph="UPDATE `##__j... " />
-            <marker date="1490092311013" expanded="true" signature="7090:7136" ph="SELECT user_... ##__jtmb_members_directory" />
-            <marker date="1490092311013" expanded="true" signature="7300:7322" ph="SELECT * FRO... ##__users" />
-            <marker date="1490092311013" expanded="true" signature="7904:8005" ph="UPDATE `##__j... " />
-            <marker date="1490092311013" expanded="true" signature="8141:8261" ph="INSERT INTO ##__jtmb_members_directory... " />
-            <marker date="1490092311013" expanded="true" signature="10480:10578" ph="SELECT user_... ##__jtmb_member_request" />
-            <marker date="1490092311013" expanded="true" signature="11210:11281" ph="DELETE FROM " />
-            <marker date="1490092311013" expanded="true" signature="11464:11621" ph="INSERT INTO ##__jtmb_members_directory... " />
-            <marker date="1490092311013" expanded="true" signature="12509:12580" ph="DELETE FROM " />
-            <marker date="1490092311013" expanded="true" signature="13619:13665" ph="SELECT user_... ##__jtmb_members_directory" />
-            <marker date="1490092311013" expanded="true" signature="13896:13949" ph="SELECT id FR... ##__usergroups" />
-            <marker date="1490092311013" expanded="true" signature="14077:14145" ph="SELECT user_... ##__user_usergroup_map" />
-            <marker date="1490092311013" expanded="true" signature="14421:14506" ph="update `##__j... " />
-            <marker date="1490092311013" expanded="true" signature="14612:14659" ph="SELECT * FRO... ##__users" />
-            <marker date="1490092311013" expanded="true" signature="15626:15750" ph="INSERT INTO ##__jtmb_members_directory... " />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/administrator/components/com_jtagmembersdirectory/fields/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1023,7 +991,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/configuration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1031,7 +999,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/install.mysql.utf8.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
+        <state relative-caret-position="400">
           <caret line="25" column="36" lean-forward="false" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
           <folding />
         </state>
@@ -1039,7 +1007,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models/assigncategories.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1493199278308" expanded="true" signature="969:1024" ph="SELECT id FR... ##__jtmb_objects_directory" />
@@ -1064,7 +1032,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models/objects.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
+        <state relative-caret-position="112">
           <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
           <folding>
             <marker date="1493199278312" expanded="true" signature="4114:4401" ph="SELECT c.id,... ##__jtmb_objects_directory" />
@@ -1104,28 +1072,34 @@
           <ID>PHP</ID>
           <OriginalElement>$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/models</OriginalElement>
           <nodes>
-            <node x="1224.0" y="553.5">\JtagobjectDirectoryModelusers</node>
-            <node x="527.0" y="388.0">\jtagobjectdirectoryModelobject</node>
-            <node x="291.0" y="553.5">\JtagobjectDirectoryModelCategory</node>
-            <node x="996.0" y="575.5">\jtagobjectdirectoryModeluserslist</node>
-            <node x="734.75" y="0.0">\JModel</node>
             <node x="814.75" y="277.0">\JModelLegacy</node>
             <node x="0.0" y="509.0">\jtagobjectdirectoryModeldispayoptions</node>
             <node x="1452.0" y="399.0">\jtagobjectdirectoryModelobjects</node>
+            <node x="291.0" y="553.5">\JtagobjectDirectoryModelCategory</node>
+            <node x="996.0" y="575.5">\jtagobjectdirectoryModeluserslist</node>
+            <node x="1224.0" y="553.5">\JtagobjectDirectoryModelusers</node>
+            <node x="527.0" y="388.0">\jtagobjectdirectoryModelobject</node>
+            <node x="734.75" y="0.0">\JModel</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="\JtagobjectDirectoryModelusers" target="\JModelLegacy">
-              <point x="0.0" y="-47.5" />
-              <point x="1328.0" y="358.0" />
-              <point x="981.25" y="358.0" />
-              <point x="55.5" y="25.5" />
+            <edge source="\jtagobjectdirectoryModeldispayoptions" target="\JModelLegacy">
+              <point x="0.0" y="-92.0" />
+              <point x="135.5" y="348.0" />
+              <point x="833.25" y="348.0" />
+              <point x="-92.5" y="25.5" />
             </edge>
             <edge source="\jtagobjectdirectoryModelobjects" target="\JModelLegacy">
               <point x="0.0" y="-202.0" />
               <point x="1662.5" y="348.0" />
               <point x="1018.25" y="348.0" />
               <point x="92.5" y="25.5" />
+            </edge>
+            <edge source="\JtagobjectDirectoryModelusers" target="\JModelLegacy">
+              <point x="0.0" y="-47.5" />
+              <point x="1328.0" y="358.0" />
+              <point x="981.25" y="358.0" />
+              <point x="55.5" y="25.5" />
             </edge>
             <edge source="\jtagobjectdirectoryModeluserslist" target="\JModelLegacy">
               <point x="0.0" y="-25.5" />
@@ -1149,20 +1123,14 @@
               <point x="907.25" y="368.0" />
               <point x="-18.5" y="25.5" />
             </edge>
-            <edge source="\jtagobjectdirectoryModeldispayoptions" target="\JModelLegacy">
-              <point x="0.0" y="-92.0" />
-              <point x="135.5" y="348.0" />
-              <point x="833.25" y="348.0" />
-              <point x="-92.5" y="25.5" />
-            </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.8860655737704912" x="559.8603145235895" y="541.8603145235895" />
+          <settings layout="Hierarchic Group" zoom="0.8860655737704912" x="560.0" y="542.0" />
           <SelectedNodes>
             <node>\JModelLegacy</node>
           </SelectedNodes>
           <Categories>
-            <Category>Methods</Category>
             <Category>Fields</Category>
+            <Category>Methods</Category>
           </Categories>
           <VISIBILITY>public</VISIBILITY>
         </state>
@@ -1174,14 +1142,14 @@
           <ID>PHP</ID>
           <OriginalElement>$PROJECT_DIR$/com_jtag_objects_directory_2.47/admin/controllers</OriginalElement>
           <nodes>
-            <node x="157.0" y="886.0">\JTagobjectDirectoryControllerFilters</node>
             <node x="654.0" y="886.0">\JtagobjectDirectoryControllerUsers</node>
+            <node x="157.0" y="886.0">\JTagobjectDirectoryControllerFilters</node>
             <node x="361.0" y="0.0">\JObject</node>
-            <node x="228.5" y="299.0">\JController</node>
             <node x="889.0" y="886.0">\JTagobjectDirectoryControllerCategories</node>
+            <node x="228.5" y="299.0">\JController</node>
             <node x="400.0" y="886.0">\JTagobjectDirectoryControllerAdduser</node>
-            <node x="0.0" y="875.0">\MediaControllerFile</node>
             <node x="454.0" y="796.0">\JControllerLegacy</node>
+            <node x="0.0" y="875.0">\MediaControllerFile</node>
           </nodes>
           <notes />
           <edges>
@@ -1222,7 +1190,7 @@
               <point x="-25.19999999999999" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="566.5" y="553.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="943.5" y="451.5" />
           <SelectedNodes>
             <node>\JControllerLegacy</node>
           </SelectedNodes>
