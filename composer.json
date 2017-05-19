@@ -1,0 +1,12 @@
+{
+    "name": "roma/patent",
+    "authors": [
+        {
+            "name": "roma",
+            "email": "roma@ex.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "v0.13.*"
+    }
+}
