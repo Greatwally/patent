@@ -1,5 +1,4 @@
 /administrator/cache/*
 /configuration.php
-/index.php
 /vendor/
 /.idea
