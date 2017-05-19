@@ -51,7 +51,7 @@ defined('_JEXEC') or die('Restricted access');
         <br>
         <button type="submit" name="type" value="list">сгенерировать документ со списком</button>
         <button type="submit" name="type" value="generate">сгенерировать документ с рассылкой</button>
-        <button type="submit" name="type" value="mail">разослать уведомления на почту</button>
+        <!--<button type="submit" name="type" value="mail">разослать уведомления на почту</button>-->
     </div>
 </form>
 

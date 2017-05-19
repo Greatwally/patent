@@ -91,6 +91,8 @@ class Generate_documentsController extends JController
 
         switch ($post['type']) {
             case 'list':
+                $this->view->assign('files', $this->generateList($users, $post));
+
                 break;
             case 'generate':
                 $this->view->assign('files', $this->generate($users, $post));
@@ -109,12 +111,11 @@ class Generate_documentsController extends JController
         $text = $params['text'];
 
         $files = [];
-        $config = JFactory::getConfig();
         $homeUrl = 'http://'.JFactory::getURI()->getHost() . '/administrator/';
 
-        foreach ($users as $user) {
-            $phpWord = new PhpWord();
+        $phpWord = new PhpWord();
 
+        foreach ($users as $user) {
             $section = $phpWord->addSection();
             $section->addText(
                 'ОТ ' .$from
@@ -136,16 +137,60 @@ class Generate_documentsController extends JController
                 array('name' => 'Tahoma', 'size' => 10)
             );
 
-            $objWriter = IOFactory::createWriter($phpWord, 'Word2007');
-            //$nameReplace = preg_replace('/[^a-zA-Zа-яА-ЯёйЁЙ]+/', '', $user->name);
-            $fName = 'files/'.$user->id.'_'.time().'.docx';
-            $objWriter->save($fName);
-
-            $files[] = [
-                'url' => $homeUrl.$fName,
-                'name' => $user->name,
-            ];
+            $section->addPageBreak();
         }
+
+        $objWriter = IOFactory::createWriter($phpWord, 'Word2007');
+        $fName = 'files/'.time().'.docx';
+        $objWriter->save($fName);
+
+        $files[] = [
+            'url' => $homeUrl.$fName,
+            'name' => 'Users',
+        ];
+
+        return $files;
+    }
+
+    private function generateList($users, $params)
+    {
+        $from = $params['from'];
+        $order = $params['order'];
+        $topic = $params['topic'];
+        $text = $params['text'];
+
+        $files = [];
+        $homeUrl = 'http://'.JFactory::getURI()->getHost() . '/administrator/';
+
+        $phpWord = new PhpWord();
+        $section = $phpWord->addSection();
+        $header = array('size' => 16, 'bold' => true);
+        $section->addText('List users', $header);
+
+        $table = $section->addTable();
+
+        $headers = array(
+            'Имя', 'Адрес'
+        );
+        $table->addRow();
+        foreach ($headers as $headeritem) {
+            $table->addCell(1750)->addText($headeritem);
+        }
+
+        foreach ($users as $user) {
+            $table->addRow();
+            $table->addCell(1750)->addText($user->name);
+            $table->addCell(1750)->addText($user->city . ', ' . $user->state);
+        }
+
+        $objWriter = IOFactory::createWriter($phpWord, 'Word2007');
+        $fName = 'files/'.time().'.docx';
+        $objWriter->save($fName);
+
+        $files[] = [
+            'url' => $homeUrl.$fName,
+            'name' => 'List',
+        ];
 
         return $files;
     }
